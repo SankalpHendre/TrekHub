@@ -1,0 +1,182 @@
+.c-signup {
+    background-image: url("../Images/hike.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    #c-allbtn1 {
+        width: 200px;
+        font-family: 400;
+        font-size: larger;
+        color: #ffffff;
+        background-color: #B53389;
+        margin-top: 15px;
+    }
+
+
+    .c-TrekPortal-1
+    {
+    /* display: inline-block; */
+        display: flex;
+        flex-wrap: wrap;
+        /* flex-direction: row; */
+        justify-content: space-around;
+    
+    }
+    
+    .c-TrekPortal
+    {
+        height: 350px;
+        width: 300px;
+        box-shadow: 2px 2px 8px black;
+        margin-top: 50px;
+        /* border-radius: 5%; */
+        /* z-index: -1; */
+    }
+    
+    .c-card-content
+    {
+        margin-top: 35px;
+    }
+    
+    
+    .c-TrekPortal
+    {
+        height: 350px;
+        width: 300px;
+        box-shadow: 2px 2px 8px black;
+        margin-top: 50px;
+        /* border-radius: 5%; */
+        /* z-index: -1; */
+    }
+    
+    #c-dispimgbtn-treker{
+    
+        width: 120px;
+        font-family: 300;
+        font-size: medium;
+        color: #ffffff;
+        background-color: #B53389;
+        border:1px solid #B53389;
+    }  
+    
+    
+    .c-1divinfo
+    {
+        /* border: 1px solid #800080; */
+        /* height: 100px; */
+        border-right:2px double #25D366 ;
+        width: 600px;
+       
+    }
+    
+    
+    
+    .c-2divinfo
+    {
+        /* border: 1px solid yellow; */
+        /* height: 100px; */
+        padding: 5px;
+        width: 550px;
+      
+    
+    }
+    
+    
+    #c-dispimgbtn-tourist1{
+    
+        width: 150px;
+        height: 40px;
+        font-family: 300;
+        font-size: medium;
+        color: #ffffff;
+        background-color: #B53389;
+        border:1px solid #B53389;
+        margin-left: 130px;
+        margin-right: 130px;
+        border-radius: 2%;
+    }   
+    
+    #c-dispimgbtn-tourist1:hover{
+        background-color: #800080;
+        box-shadow: 2px 3px 5px #B53389;
+    }
+    
+    .c-packagebtntourist
+    {
+        display: flex;
+        flex: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+    
+    
+    .c-mainpackageallinfo
+    {
+        position: fixed;
+        top: 6%;
+        left: 10%;
+        z-index: 9999;
+       
+    }
+    
+    
+    .c-packageallinfo
+    {
+        
+       
+         background-color: #85FFBD;
+         background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+            
+       
+        display: flex;
+        flex: wrap;
+        height: 100%;
+        width: 1050px;
+        box-shadow: 10px 10px 12px gray;
+        border-radius: 3%;
+    
+       
+        background-color: #D0F0C0;
+        
+        z-index: 999;
+        left: 78px;
+        justify-content: space-around;
+    }
+    
+    .c-touristpackageimages
+    {
+        /* border: 3px solid #800080; */
+        margin: -20px;
+        /* background-color:black; */
+        box-shadow: 10px 10px 8px gray;
+        /* border-radius: 5%; */
+       object-fit: cover;
+       width: 270px;
+       margin-left: 5%;
+    
+    }   
+    
+    .c-touristsingleimage
+    {
+        /* object-fit: cover; */
+        /* margin-top: -40px; */
+        height: 200px;
+        width: 100%;
+        /* padding: 15px; */
+        /* border-radius: 5%; */
+        overflow: visible;
+        z-index: 99;
+        
+    }
+
+    .c-disppackagetable 
+    {
+   border: 2px solid black;
+   width : 100%;
+
+    }
