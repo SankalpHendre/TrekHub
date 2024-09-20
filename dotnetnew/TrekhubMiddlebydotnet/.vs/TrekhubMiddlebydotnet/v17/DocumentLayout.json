@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC Project\\TrekHubProject-main\\TrekHubProject-main\\dotnetnew\\TrekhubMiddlebydotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D042E913-AE0D-428C-990E-EB506AC80529}|TrekhubMiddlebydotnet\\TrekhubMiddlebydotnet.csproj|d:\\cdac project\\trekhubproject-main\\trekhubproject-main\\dotnetnew\\trekhubmiddlebydotnet\\trekhubmiddlebydotnet\\models\\trekhubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D042E913-AE0D-428C-990E-EB506AC80529}|TrekhubMiddlebydotnet\\TrekhubMiddlebydotnet.csproj|solutionrelative:trekhubmiddlebydotnet\\models\\trekhubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrekhubdbContext.cs",
+              "DocumentMoniker": "D:\\CDAC Project\\TrekHubProject-main\\TrekHubProject-main\\dotnetnew\\TrekhubMiddlebydotnet\\TrekhubMiddlebydotnet\\Models\\TrekhubdbContext.cs",
+              "RelativeDocumentMoniker": "TrekhubMiddlebydotnet\\Models\\TrekhubdbContext.cs",
+              "ToolTip": "D:\\CDAC Project\\TrekHubProject-main\\TrekHubProject-main\\dotnetnew\\TrekhubMiddlebydotnet\\TrekhubMiddlebydotnet\\Models\\TrekhubdbContext.cs",
+              "RelativeToolTip": "TrekhubMiddlebydotnet\\Models\\TrekhubdbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:11:31.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
